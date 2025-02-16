@@ -12,6 +12,8 @@
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "antd": "^5.24.0",
+    "axios": "^1.7.9",
+    "query-string": "^9.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5",

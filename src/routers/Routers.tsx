@@ -1,4 +1,3 @@
-import React from "react";
 import AuthRouter from "./AuthRouter";
 import MainRouter from "./MainRouter";
 

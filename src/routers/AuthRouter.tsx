@@ -7,8 +7,8 @@ const AuthRouter = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col ">
-          <h1>fa fa fa</h1>
+        <div className="col d-none d-lg-block text-center">
+          <h1>Kanban</h1>
         </div>
         <div className="col content-center">
           <BrowserRouter>

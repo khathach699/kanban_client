@@ -14,7 +14,7 @@ const Login = () => {
     console.log(value);
   };
   return (
-    <Card style={{ width: "60%" }}>
+    <Card style={{}}>
       <div className="text-center">
         <Title level={2}>Login to your account </Title>
         <Paragraph type="secondary">
